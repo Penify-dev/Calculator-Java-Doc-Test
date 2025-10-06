@@ -17,6 +17,11 @@ A basic calculator application built with Java Swing.
 
 3. Run the application
 
+## Contributors
+
+- [Coding Agent](mailto:agent@example.com)
+- [Suman Saurabh](mailto:ss.sumansaurabh92@gmail.com)
+
 ## License
 
 MIT
